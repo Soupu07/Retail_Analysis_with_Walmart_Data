@@ -3,8 +3,7 @@
 # Business Understanding
 
 # Walmart is an American retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores.
-
-
+![Walmart](https://github.com/user-attachments/assets/6e2c567b-c8e5-47fd-af65-f2da87b9a52a)
 
 ## In this project, we focused on answering the following questions:
 1. Which store has minimum and maximum sales?
