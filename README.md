@@ -4,6 +4,8 @@
 
 # Walmart is an American retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores.
 
+
+
 ## In this project, we focused on answering the following questions:
 1. Which store has minimum and maximum sales?
 2. Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean
